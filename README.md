@@ -63,8 +63,13 @@ I am a final-year Computer Science Engineering student at BNM Institute of Techn
 <!-- CONNECT -->
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/ruchit-pahadia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ruchitpahadia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- Replace with your exact LinkedIn profile link if different -->
+  <a href="https://linkedin.com/in/ruchit-pahadia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e2030?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:toruchitpahadia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1e2030?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- Replace with your exact Leetcode profile link if different -->
+  <a href="https://leetcode.com/RuchitPahadia" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1e2030?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <!-- Replace with your personal portfolio URL if you have one -->
+  <!-- <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1e2030?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> -->
 </p>
 
 <p align="center">
