@@ -72,6 +72,3 @@ I am a final-year Computer Science Engineering student at BNM Institute of Techn
   <!-- <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1e2030?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> -->
 </p>
 
-<p align="center">
-  <sub>Configured with ❤️ by Antigravity AI Coding Assistant</sub>
-</p>
