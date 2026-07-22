@@ -66,7 +66,20 @@ I am a passionate **Software Engineer** specializing in **Enterprise Java Backen
 
 ---
 
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuchitPahadia/RuchitPahadia/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuchitPahadia/RuchitPahadia/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RuchitPahadia/RuchitPahadia/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ### 📊 GitHub Stats & Metrics
+
 
 <p align="center">
   <table align="center">
