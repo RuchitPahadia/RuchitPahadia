@@ -1,3 +1,4 @@
+<!-- HEADER -->
 # Hi there, I'm Ruchit Pahadia! 👋
 
 <p align="left">
@@ -6,16 +7,23 @@
 
 ---
 
+<!-- ABOUT-ME -->
 ### 💫 About Me
 I am a passionate **Software Engineer** specializing in **Enterprise Java Backend Development**. I focus on building secure, scalable, stateless, and high-performance applications. I enjoy architectural design, API development, database optimization, and implementing robust security frameworks.
 
-* 🚀 Currently working on: Secure enterprise authorization platforms and authentication systems.
 * 📚 Learning: Advanced OAuth2, Microservices architecture, Docker orchestration, and Redis caching strategies.
 * 🛠️ Core Strength: Designing RESTful APIs, securing endpoints with Spring Security & JWT, and relational database management.
 * 💬 Ask me about: **Java, Spring Boot, Spring Security, and Database design.**
 
 ---
 
+<!-- CURRENTLY-FOCUSED-ON -->
+### 🚀 Currently Focused On
+* Working on secure enterprise authorization platforms and authentication systems.
+
+---
+
+<!-- TECH-STACK -->
 ### 🛠️ Tech Stack & Tooling
 
 <table>
@@ -55,7 +63,8 @@ I am a passionate **Software Engineer** specializing in **Enterprise Java Backen
 
 ---
 
-### 📂 Featured Project
+<!-- FEATURED-PROJECTS -->
+### 📂 Featured Projects
 
 #### 🔐 [Enterprise Authentication & Authorization System](https://github.com/RuchitPahadia/enterprise-auth-system)
 > A robust, production-ready backend application built with **Spring Boot 3 / Java 21** and **Spring Security**. Designed to handle secure user registrations, logins, and Role-Based Access Control (RBAC) using stateless JSON Web Tokens (JWT).
@@ -66,7 +75,8 @@ I am a passionate **Software Engineer** specializing in **Enterprise Java Backen
 
 ---
 
-### 🐍 Contribution Graph
+<!-- GITHUB-STATS -->
+### 📊 GitHub Stats & Metrics
 
 <p align="center">
   <picture>
@@ -75,11 +85,6 @@ I am a passionate **Software Engineer** specializing in **Enterprise Java Backen
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RuchitPahadia/RuchitPahadia/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
----
-
-### 📊 GitHub Stats & Metrics
-
 
 <p align="center">
   <table align="center">
@@ -101,6 +106,7 @@ I am a passionate **Software Engineer** specializing in **Enterprise Java Backen
 
 ---
 
+<!-- CONNECT -->
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/ruchit-pahadia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
