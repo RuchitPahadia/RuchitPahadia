@@ -33,12 +33,13 @@ I am a final-year Computer Science Engineering student at BNM Institute of Techn
 <!-- FEATURED-PROJECTS -->
 ### 📂 Featured Projects
 
-#### 🔐 [Enterprise Authentication & Authorization System](https://github.com/RuchitPahadia/enterprise-auth-system)
-> A robust, production-ready backend application built with **Spring Boot 3 / Java 21** and **Spring Security**. Designed to handle secure user registrations, logins, and Role-Based Access Control (RBAC) using stateless JSON Web Tokens (JWT).
-* **Key Features**: Hashed passwords using BCrypt, database integration via PostgreSQL & Hibernate/JPA, API documentation with OpenAPI/Swagger, and a strictly layered Service-Oriented Architecture.
-* **Tech**: Spring Boot, Spring Security, JWT, PostgreSQL, Hibernate, Maven.
+#### 🎮 [DealerXP](https://github.com/RuchitPahadia/dealership-gamification-platform)
+* Individual project for Carverse Mobility Technologies Dealership Gamification Hackathon. Adds a gamification layer (XP, streaks, badges, quests, anti-gaming/anomaly detection) on top of dealership CRM/DMS data.
+* <img src="https://img.shields.io/badge/React-1e2030?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Vite-1e2030?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/FastAPI-1e2030?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-1e2030?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-1e2030?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 
-*(Check out the repository details in my profile!)*
+#### 🏥 AI-Augmented Patient Handoff & Real-Time Clinical Decision Support
+* Final-year academic project (team of 3) building a care transition prototype under ABDM/DPDP compliance, utilizing federated learning via the Flower framework and local NLP summarization.
+* <img src="https://img.shields.io/badge/Next.js-1e2030?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/FastAPI-1e2030?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-1e2030?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Claude%20API-1e2030?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" /> <img src="https://img.shields.io/badge/Flower%20(flwr)-1e2030?style=flat-square&logo=apache&logoColor=white" alt="Flower" />
 
 ---
 
