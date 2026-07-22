@@ -55,21 +55,7 @@ I am a final-year Computer Science Engineering student at BNM Institute of Techn
 </p>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RuchitPahadia&show_icons=true&theme=radical&count_private=true" alt="Ruchit's GitHub Stats" height="195px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchitPahadia&layout=compact&theme=radical" alt="Ruchit's Top Languages" height="195px" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchitPahadia&theme=radical" alt="Ruchit's Streak Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-stats-extended.vercel.app/api?username=RuchitPahadia&show_icons=true&theme=radical&count_private=true" alt="Ruchit's GitHub Stats" />
 </p>
 
 ---
