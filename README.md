@@ -1,19 +1,12 @@
 <!-- HEADER -->
-# Hi there, I'm Ruchit Pahadia! 👋
-
-<p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6DB33F&background=00000000&width=500&lines=Software+Engineer;Enterprise+Java+Developer;Spring+Boot+Enthusiast;Building+Scalable+Backend+Systems" alt="Typing SVG" /></a>
-</p>
+# Ruchit Pahadia 👋
+### Final-Year CS Student ➔ Aspiring Data Science & ML Engineer
 
 ---
 
 <!-- ABOUT-ME -->
 ### 💫 About Me
-I am a passionate **Software Engineer** specializing in **Enterprise Java Backend Development**. I focus on building secure, scalable, stateless, and high-performance applications. I enjoy architectural design, API development, database optimization, and implementing robust security frameworks.
-
-* 📚 Learning: Advanced OAuth2, Microservices architecture, Docker orchestration, and Redis caching strategies.
-* 🛠️ Core Strength: Designing RESTful APIs, securing endpoints with Spring Security & JWT, and relational database management.
-* 💬 Ask me about: **Java, Spring Boot, Spring Security, and Database design.**
+I am a final-year Computer Science Engineering student at BNM Institute of Technology, Bengaluru, who enjoys building projects hands-on and end-to-end. Currently, I am working as an IoT & Advanced AI Intern at Ganaka Praudyokikee Tech Solutions. I am actively seeking entry-level Data Science and Machine Learning Engineer roles to apply and expand my skills.
 
 ---
 
