@@ -19,40 +19,14 @@ I am a final-year Computer Science Engineering student at BNM Institute of Techn
 <!-- TECH-STACK -->
 ### 🛠️ Tech Stack & Tooling
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>💻 Languages & Frameworks</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security" />
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🗄️ Databases & Cache</h4>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🔐 Security & Authentication</h4>
-      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
-      <img src="https://img.shields.io/badge/OAuth2-3F51B5?style=for-the-badge&logo=google&logoColor=white" alt="OAuth2" />
-      <img src="https://img.shields.io/badge/RBAC-grey?style=for-the-badge" alt="RBAC" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🔧 Tools & Environment</h4>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
-    </td>
-  </tr>
-</table>
+#### 💻 Languages
+<img src="https://img.shields.io/badge/Python-1e2030?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-1e2030?style=flat-square&logo=databricks&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Java-1e2030?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C-1e2030?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/JavaScript-1e2030?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-1e2030?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+
+#### ⚙️ Frameworks & Data
+<img src="https://img.shields.io/badge/PyTorch-1e2030?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-1e2030?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Scikit--Learn-1e2030?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> <img src="https://img.shields.io/badge/FastAPI-1e2030?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Flask-1e2030?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/React-1e2030?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js-1e2030?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/OpenCV-1e2030?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/Hugging%20Face-1e2030?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" /> <img src="https://img.shields.io/badge/Pandas-1e2030?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-1e2030?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/PostgreSQL-1e2030?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-1e2030?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Redis-1e2030?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/MongoDB-1e2030?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+#### 🔧 Tools & Platforms
+<img src="https://img.shields.io/badge/Git-1e2030?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-1e2030?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Docker-1e2030?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/VS%20Code-1e2030?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Postman-1e2030?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-1e2030?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /> <img src="https://img.shields.io/badge/Arduino-1e2030?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/ONNX-1e2030?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" /> <img src="https://img.shields.io/badge/TensorFlow%20Lite-1e2030?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
 
 ---
 
